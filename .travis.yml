@@ -19,9 +19,15 @@ install:
 - npm install -g bower polymer-cli
 - npm install
 - bower install
+
+before_script:
+- npm prune
+
 script:
 - xvfb-run polymer test
+
 after_success:
+- npm run semantic-release
 - if [ ${TRAVIS_PULL_REQUEST} = "false" ] && [ "$TRAVIS_BRANCH" = "master" ]; then
   bower install -s oneezy/build-tools && ./bower_components/build-tools/gpages_build.sh;
   fi
