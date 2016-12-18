@@ -7,6 +7,13 @@ _[Demo and API Docs](https://oneezy.github.io/test-semver)_
 [![license](https://img.shields.io/github/license/oneezy/test-semver.svg)](https://github.com/oneezy/test-semver/blob/master/LICENSE)
 [![](https://img.shields.io/github/issues-raw/oneezy/test-semver.svg)](https://github.com/oneezy/test-semver/issues)
 
+[![Build Status][build-badge]][build]
+[![Code Coverage][coverage-badge]][coverage]
+[![Dependencies][dependencyci-badge]][dependencyci]
+[![version][version-badge]][package]
+[![downloads][downloads-badge]][npm-stat]
+[![MIT License][license-badge]][LICENSE]
+
 Travis Test #1
 
 ## Install the Polymer-CLI
