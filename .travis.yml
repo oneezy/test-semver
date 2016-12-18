@@ -15,6 +15,10 @@ cache:
   - node_modules
   - "$HOME/.cache/bower"
 
+branches:
+  only:
+    - master
+
 install:
 - npm install -g bower polymer-cli
 - npm install

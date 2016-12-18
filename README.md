@@ -3,6 +3,9 @@ _[Demo and API Docs](https://oneezy.github.io/test-semver)_
 # \<test-semver\>
 
 [![Build Status](https://travis-ci.org/oneezy/test-semver.svg?branch=master)](https://travis-ci.org/oneezy/test-semver)
+[![GitHub release](https://img.shields.io/github/release/oneezy/test-semver.svg)](https://github.com/oneezy/test-semver/releases)
+[![license](https://img.shields.io/github/license/oneezy/test-semver.svg)](https://github.com/oneezy/test-semver/blob/master/LICENSE)
+[![](https://img.shields.io/github/issues-raw/badges/shields.svg)](https://github.com/oneezy/test-semver/issues)
 
 Travis Test #1
 
