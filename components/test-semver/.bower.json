@@ -1,0 +1,24 @@
+{
+  "name": "test-semver",
+  "main": "test-semver.html",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.4.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "iron-demo-helpers": "PolymerElements/iron-demo-helpers#^1.0.0",
+    "web-component-tester": "^4.0.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
+  },
+  "homepage": "https://github.com/oneezy/test-semver",
+  "_release": "711659e267",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "711659e26761c177536a0e3c0e349443485a11e0"
+  },
+  "_source": "https://github.com/oneezy/test-semver.git",
+  "_target": "master",
+  "_originalSource": "oneezy/test-semver",
+  "_direct": true
+}
